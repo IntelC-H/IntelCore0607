@@ -3,14 +3,11 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&pause=1000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 ## Skills
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP,
-- 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
+- 🌱 Frontend: React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🔭 Backend: NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
+- 🧩 Database: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
+- 💬 Language: HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
