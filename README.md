@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=IntelCore&section=header&reversal=false&textBg=false&fontColor=123234&desc=Senior%20Full%20Stack%20Developer"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&pause=1000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 ## Skills
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
