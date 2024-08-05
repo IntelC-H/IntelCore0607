@@ -4,10 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&pause=1000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer)](https://git.io/typing-svg)
 ## Skills
-- 🌱 Frontend: React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend: NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
-- 🧩 Database: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
-- 💬 Language: HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+- 💬 Programming Language: Solidity, Rust, Node.js, Golang, PHP, Python, JavaScript/TypeScript, Java, C/C++, C#
+- 🪢 Blockchain Technology: Hardhat, Decentralized Oracle, Truffle, Forge, Web3, Cosmos SDK, CosmWasm
+- 🔭 Back-end Technology: Express, Strapi, FastAPI, Laravel, Microservices, gRPC, Microservices(used Golang), Bun, Django, NestJS
+- 🌱 Front-end Technology: React, Redux, Redux-Saga, React Native, Next.js, Nuxt.js, Vue.js, Vuex, Angular, Three.js, Bootstrap, TailwindCSS, Scss, jQuery, Ajax, Vite
+- 🧩 Database: PostgreSQL, MySQL, Oracle, MSSQL, MongoDB, Redis, Prisma
+- 🎗️ Other: DevOps, GraphQL, CI/CD, Unit testing, Lambda, GitHub, GitLab, AWS, GCP, Cloud, Azure, Docker, IBM
   
 <!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
